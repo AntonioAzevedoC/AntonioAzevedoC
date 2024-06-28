@@ -1,4 +1,4 @@
-Hi! I'm @AntonioAzevedoC, a brazilian student in Fatec Dr Thomas Novelino, a university where I take an Analysis and Systems Development course!
+Hi! I'm @AntonioAzevedoC, a brazilian student in Fatec Dr Thomaz Novelino, a university where I take a course in System Analysis and Development!
 
 I'm interested in becoming a Web developer, it has been a passion of mine for quite some time.
 
